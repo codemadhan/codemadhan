@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codemadhan
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning c++ and python as my programming languages 
+- 🌱 I’m currently learning c++ and python 
 - 📫 Reach me through iammadhan@2103gmail.com
 
 <!---
