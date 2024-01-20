@@ -10,7 +10,7 @@
 
 
 
-<h1 align="center">A passionate IT student and Software Developer <br>Currently developing Software/Flight Stack for Swarm of Autonomous Drones </h1>
+<h1 align="center">A passionate IT student and Software Developer <br>Currently developing Software/Flight Stack for Autonomous Drones Swarm </h1>
 
 <div align="center">
   <img  src="https://github.com/codemadhan/codemadhan/blob/main/resources/grid-snake.svg"
